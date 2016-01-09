@@ -1,0 +1,28 @@
+name: sk-test
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0.9366652518510818
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#131416'
+    - '#597da9'
+    - '#9dc7e5'
+    - '#640000'
+    - '#8b5c6d'
+  brandStrength: 0.5
+  lightness: 0.5
+  saturation: 0.0625
+  rhythmicContrast: 0.5
+purpose: []
